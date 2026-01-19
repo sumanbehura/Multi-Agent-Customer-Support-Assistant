@@ -7,6 +7,7 @@ Since GitHub's built-in notebook viewer can be unstable with large files, you ca
 👉 **[View Interactive Notebook via nbviewer](https://nbviewer.org/github/sumanbehura/Multi-Agent-Customer-Support-Assistant/blob/main/multi-agent-customer-support-assistant.ipynb)**
 
 ---
+https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/ai-agent-mind-matrix-capstone-project
 
 ## 🛠 Features
 - **Specialized Agents:** Separate agents for Support Inquiry Handling and Quality Assurance.
