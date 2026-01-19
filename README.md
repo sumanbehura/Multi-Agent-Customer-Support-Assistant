@@ -6,6 +6,8 @@ This repository contains a high-performance **Multi-Agent System** designed to a
 Since GitHub's built-in notebook viewer can be unstable with large files, you can view the full code and execution logs here:
 👉 **[View Interactive Notebook via nbviewer](https://nbviewer.org/github/sumanbehura/Multi-Agent-Customer-Support-Assistant/blob/main/multi-agent-customer-support-assistant.ipynb)**
 
+kaggle kernels output shadowwhooo/multi-agent-customer-support-assistant -p /path/to/dest
+
 ---
 https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/ai-agent-mind-matrix-capstone-project
 
